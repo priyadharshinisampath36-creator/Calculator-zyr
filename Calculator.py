@@ -1,18 +1,4 @@
-# Zyroo Calcs
-
-A simple Python calculator program that performs basic arithmetic operations.
-
-## Features
-
-- Addition
-
-- Subtraction
-
-- Multiplication
-
-- Division
-
-## code
+# code
 
 python calculator.py
 a = "Zyroo Calcs"
